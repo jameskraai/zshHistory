@@ -1,2 +1,2 @@
 # ZSH History settings
-Some personal preferences for my shell history.
+Antigen plugin for several simple zsh history settings
